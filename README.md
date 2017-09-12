@@ -1,2 +1,2 @@
 # CommonMacro-master
-iOS common macro define
+iOS common macro define，Details PrefixHeader.pch.
